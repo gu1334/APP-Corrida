@@ -8,4 +8,5 @@ Neste projeto, deparei-me com a necessidade de monitorar minha velocidade durant
 ### Fork
 Neste projeto estou utilizando o Fork para fazer os commits e modificar o GitHub simultaneamente.
 ### VS Code
+Como se trata de um software exclusivamente de linguagens Web preferi utilizar o VS Code para ter uma otimização e uma velocidade maior para programar.
 ### Git Hub
