@@ -10,14 +10,6 @@ Este é um projeto simples de um velocímetro implementado em JavaScript, HTML e
 
 - **Registro de Viagens**: Cada viagem realizada é registrada, armazenando informações como a rota percorrida e a velocidade média.
 
-### Tela de Início
-
-![Tela de Início](imagens/tela_inicio.png)
-
-### Página de Perfil
-
-![Página de Perfil](imagens/pagina_perfil.png)
-
 ## Vídeo Demonstrativo
 
 Confira este vídeo demonstrativo do projeto:
