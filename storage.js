@@ -16,6 +16,10 @@ function createNewRide() {
     // Retorna o ID da viagem para referência futura
     return rideID;
   }
+
+  function getAllrides(){
+    return Object.entries(localStorage)
+  }
   
   // Função para obter o registro de viagem com base no ID da viagem
   function getRideRecord(rideID) {
