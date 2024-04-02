@@ -10,10 +10,18 @@ allRides.forEach(([id, value]) => {
     const ride = JSON.parse(value);
     // Adiciona o ID da viagem ao objeto ride
     ride.id = id;
+
+    const firtPosition = ride.data[0]
+    console.log(firtPosition)
     // Cria um novo elemento <li> para exibir o ID da viagem
     const itemElement = document.createElement("li");
     // Define o texto do elemento <li> como o ID da viagem
-    itemElement.innerText = ride.id;
+    //itemElement.innerText = ride.id;
     // Adiciona o elemento <li> à lista de viagens no DOM
     rideListElement.appendChild(itemElement);
 });
+
+
+function getLocationData(latitude, longitude){
+
+}
